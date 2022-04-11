@@ -56,7 +56,7 @@ npm i eslint-config-scnu -D
 
 ## 项目现状
 
-根据目前需求和 [ESLint 官方文档](https://eslint.bootcss.com/docs/rules/)制定的规则。
+根据目前需求和 [ESLint 官方文档](https://eslint.bootcss.com/docs/rules/) 制定的规则。
 
 题外话：目前选用的规则是作者个人选择的，有着一定的主观性，团队使用时，若有其它看法，可以发 issue 一起讨论是否有什么规则无用，或是有什么规则需要添加的。
 
