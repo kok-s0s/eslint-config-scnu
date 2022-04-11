@@ -1,6 +1,6 @@
 {
 	"name": "eslint-config-scnu",
-	"version": "1.3.2",
+	"version": "1.3.4",
 	"description": "ESLint",
 	"author": "kok-s0s",
 	"main": "index.js",
