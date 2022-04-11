@@ -29,11 +29,9 @@ module.exports = {
 	},
 	plugins: ['react', 'prettier', '@typescript-eslint', 'react-hooks'],
 	rules: {
-		// 忽略不同的系统的换行
 		'linebreak-style': 0,
 		'no-use-before-define': 'warn',
 		'@typescript-eslint/no-use-before-define': ['error'],
-		// jsx 内容允许以 tsx 结尾
 		'react/jsx-filename-extension': [
 			'warn',
 			{
