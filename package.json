@@ -1,7 +1,7 @@
 {
 	"name": "eslint-config-scnu",
 	"version": "1.1.16",
-	"description": "ESLint",
+	"description": "ESLint + Prettier",
 	"main": "index.js",
 	"files": [
 		"index.js"
