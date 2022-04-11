@@ -81,6 +81,8 @@ module.exports = {
 		'@typescript-eslint/no-shadow': 2,
 		'no-console': 2,
 		'linebreak-style': 0,
+		'react/jsx-uses-react': 'off',
+		'react/react-in-jsx-scope': 'off',
 	},
 	settings: {
 		react: {
