@@ -1,1 +1,1 @@
-ESlint
+ESlint + Prettier
