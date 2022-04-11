@@ -39,7 +39,7 @@ npm i eslint-config-scnu -D
 
 创建 `.eslintignore` 文件，其作用和 `.gitignore` 作用差不多，ESlint 会根据 `.eslintignore` 来检查要忽略的文件。
 
-编辑 `.vscode/settings.json` 文件，加入以下内容
+编辑 `.vscode/settings.json` 文件，加入以下内容，在 VSCode 编辑器就可以保存时自动修复。
 
 ```json
 {
